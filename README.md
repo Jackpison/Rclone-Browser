@@ -1,7 +1,7 @@
 <img width="3732" height="505" alt="image" src="https://github.com/user-attachments/assets/c85b6813-66c2-445a-bf21-ec33b3660321" />
 
 
-<br/><br/>This is Rclone Browser Portable working fine in Windows 11 24H2 dated October 2025
+<br/><br/>This is Rclone Browser Portable GUI working fine in Windows 11 24H2 dated October 2025
 
 *Only for Windows*
 
